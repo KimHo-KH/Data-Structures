@@ -1,7 +1,7 @@
 Welcome to my Data Structures Implementation repository!
 
 Introduction
-In this repository, I've implemented fundamental data structures in Python. These implementations are aimed at providing clear, concise, and well-documented code for easy understanding and usage.
+In this repository, I've implemented fundamental data structures in C++. These implementations are aimed at providing clear, concise, and well-documented code for easy understanding and usage.
 
 List of Data Structures Implemented
 Linked List: Implementation of singly and doubly linked lists with common operations.
