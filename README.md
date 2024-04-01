@@ -15,7 +15,7 @@ Purpose
 These implementations serve as educational resources, aiding in learning fundamental data structures, practicing algorithms, or integrating them into larger projects.
 
 How to Use
-Each data structure is contained in its respective Python file with clear documentation and examples. You can simply clone or download this repository and explore the implementations as needed. Feel free to contribute, suggest improvements, or report issues.
+Each data structure is contained in its respective C++ file with clear documentation and examples. You can simply clone or download this repository and explore the implementations as needed. Feel free to contribute, suggest improvements, or report issues.
 
 Contribution Guidelines
 If you'd like to contribute to this repository, please follow these guidelines:
